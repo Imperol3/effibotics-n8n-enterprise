@@ -1,0 +1,16 @@
+{
+  "id": "xFEDNiBcNofzlwA2",
+  "name": "Google Sheets account 12",
+  "type": "googleSheetsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "IXGMlneQN94KLmYv",
+    "projectName": "Matthew Makundi <matthewkabiu@outlook.com>",
+    "personalEmail": "matthewkabiu@outlook.com"
+  },
+  "isGlobal": false
+}

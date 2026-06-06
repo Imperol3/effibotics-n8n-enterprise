@@ -1,0 +1,23 @@
+{
+  "id": "HqlejV5xP0lqTq5e",
+  "name": "Google Drive account✅",
+  "type": "googleDriveOAuth2Api",
+  "data": {
+    "grantType": "",
+    "authUrl": "",
+    "accessTokenUrl": "",
+    "clientId": "",
+    "clientSecret": "",
+    "scope": "",
+    "authQueryParameters": "",
+    "authentication": "",
+    "notice": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "Qcprnv3hSgEVz9gM",
+    "projectName": "AI Demos <kimothozacharia5+ai@gmail.com>",
+    "personalEmail": "kimothozacharia5+ai@gmail.com"
+  },
+  "isGlobal": false
+}

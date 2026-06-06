@@ -1,0 +1,17 @@
+{
+  "id": "ZlmRqQcDDafKQ51h",
+  "name": "moringa",
+  "type": "googleOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": "",
+    "scope": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

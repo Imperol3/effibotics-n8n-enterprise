@@ -1,0 +1,15 @@
+{
+  "id": "0IS8gfvVRLaXGJjV",
+  "name": "Airtable Personal Access Token account 7",
+  "type": "airtableTokenApi",
+  "data": {
+    "accessToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

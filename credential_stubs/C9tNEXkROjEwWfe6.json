@@ -1,0 +1,15 @@
+{
+  "id": "C9tNEXkROjEwWfe6",
+  "name": "JWT Auth account 2",
+  "type": "jwtAuth",
+  "data": {
+    "secret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

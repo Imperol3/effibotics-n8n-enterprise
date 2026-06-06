@@ -1,0 +1,15 @@
+{
+  "id": "k9TTkypY0cAEpKH3",
+  "name": "Google Docs account 2",
+  "type": "googleDocsOAuth2Api",
+  "data": {
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

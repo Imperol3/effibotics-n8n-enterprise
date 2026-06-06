@@ -1,0 +1,18 @@
+{
+  "id": "XWsDIbxV7CdMWaYj",
+  "name": "Your financial Blog - Jane Smith",
+  "type": "wordpressApi",
+  "data": {
+    "username": "",
+    "password": "",
+    "url": "",
+    "allowUnauthorizedCerts": true
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

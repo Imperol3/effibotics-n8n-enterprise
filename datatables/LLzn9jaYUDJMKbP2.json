@@ -1,0 +1,20 @@
+{
+  "id": "LLzn9jaYUDJMKbP2",
+  "name": "Subscription Domains",
+  "columns": [
+    {
+      "id": "JKUIRXjo6qWMYpwE",
+      "name": "email",
+      "type": "string",
+      "index": 0
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "createdAt": "2025-12-09T04:51:50.848Z",
+  "updatedAt": "2025-12-09T04:51:50.848Z"
+}

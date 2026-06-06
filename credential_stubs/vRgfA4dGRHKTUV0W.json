@@ -1,0 +1,16 @@
+{
+  "id": "vRgfA4dGRHKTUV0W",
+  "name": "Gemini AI studio",
+  "type": "httpQueryAuth",
+  "data": {
+    "name": "",
+    "value": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

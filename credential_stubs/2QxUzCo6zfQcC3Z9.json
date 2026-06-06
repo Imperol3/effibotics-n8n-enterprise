@@ -1,0 +1,16 @@
+{
+  "id": "2QxUzCo6zfQcC3Z9",
+  "name": "Header Auth account 3",
+  "type": "httpHeaderAuth",
+  "data": {
+    "name": "",
+    "value": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

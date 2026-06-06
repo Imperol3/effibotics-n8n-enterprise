@@ -1,0 +1,15 @@
+{
+  "id": "8X1PTMgRK0sfb8JG",
+  "name": "Mistral Cloud account 2",
+  "type": "mistralCloudApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

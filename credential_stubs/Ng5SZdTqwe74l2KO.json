@@ -1,0 +1,13 @@
+{
+  "id": "Ng5SZdTqwe74l2KO",
+  "name": "Header Auth account ⚠️",
+  "type": "httpHeaderAuth",
+  "data": {},
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

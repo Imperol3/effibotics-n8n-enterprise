@@ -1,0 +1,16 @@
+{
+  "id": "SKf83EKL2ZpQmrX1",
+  "name": "Paypal Bearer",
+  "type": "httpHeaderAuth",
+  "data": {
+    "name": "",
+    "value": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

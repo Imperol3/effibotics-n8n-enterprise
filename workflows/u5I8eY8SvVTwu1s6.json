@@ -1,0 +1,230 @@
+{
+  "id": "u5I8eY8SvVTwu1s6",
+  "name": "Pomodoro",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "86af3ab1-8025-4836-b18f-354969e301e8",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -400,
+        -96
+      ],
+      "id": "fb231fe0-d494-4b81-a955-805eb8e47330",
+      "name": "Webhook",
+      "webhookId": "86af3ab1-8025-4836-b18f-354969e301e8"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $json.body.event }}",
+                    "rightValue": "timer_pause",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "fc791739-be62-4968-a537-4dde959489d8"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "timer_pause"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "c5766b9a-2b5c-4ee9-a90a-45971b6c2641",
+                    "leftValue": "={{ $json.body.event }}",
+                    "rightValue": "timer_start",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "timer_start"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.4,
+      "position": [
+        -160,
+        -96
+      ],
+      "id": "8e52a312-d80c-4b57-88be-9f9270805cec",
+      "name": "Switch"
+    },
+    {
+      "parameters": {
+        "mode": "raw",
+        "jsonOutput": "={{ $json.body }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        96,
+        16
+      ],
+      "id": "4565b1f7-a52e-4f58-982a-3875e4e3904a",
+      "name": "timer_start"
+    },
+    {
+      "parameters": {
+        "mode": "raw",
+        "jsonOutput": "={{ $json.body }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        112,
+        -208
+      ],
+      "id": "f66ba1cf-572e-431e-8edb-a3dd11559a27",
+      "name": "timer_pause"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "c39ddc5b-41fd-4147-bd9d-b99c86ee3214",
+              "leftValue": "={{ $json.activeTask.id }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        320,
+        -208
+      ],
+      "id": "cd6c8ce2-2b87-46ee-a690-3e3b0abf1ec7",
+      "name": "if clickup task"
+    },
+    {
+      "parameters": {
+        "filters": {}
+      },
+      "type": "n8n-nodes-base.harvest",
+      "typeVersion": 1,
+      "position": [
+        528,
+        -304
+      ],
+      "id": "2538ca67-fd45-46c6-89f9-3fb0a36bd59b",
+      "name": "Get data of all tasks"
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Switch",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [
+          {
+            "node": "timer_pause",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "timer_start",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "timer_pause": {
+      "main": [
+        [
+          {
+            "node": "if clickup task",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "if clickup task": {
+      "main": [
+        [
+          {
+            "node": "Get data of all tasks",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "triggerCount": 1,
+  "versionId": "a7c6984a-26d1-47f8-a4c6-3647042eb5a2",
+  "owner": {
+    "type": "team",
+    "teamId": "WVyUF2tYEQp8Hq7a",
+    "teamName": "Work"
+  },
+  "parentFolderId": null,
+  "isArchived": false
+}

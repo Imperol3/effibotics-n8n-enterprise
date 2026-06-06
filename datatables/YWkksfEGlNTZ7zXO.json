@@ -1,0 +1,44 @@
+{
+  "id": "YWkksfEGlNTZ7zXO",
+  "name": "Subscriptions",
+  "columns": [
+    {
+      "id": "d9st6tCIY5nLVBBC",
+      "name": "Name",
+      "type": "string",
+      "index": 0
+    },
+    {
+      "id": "Yo3dR0cWYQYBiYRw",
+      "name": "Date_subscribed",
+      "type": "string",
+      "index": 1
+    },
+    {
+      "id": "olCtvbzUHav1Bgmc",
+      "name": "renewal_Date",
+      "type": "string",
+      "index": 2
+    },
+    {
+      "id": "hXnMv10lk1KXBQxJ",
+      "name": "amount",
+      "type": "string",
+      "index": 3
+    },
+    {
+      "id": "koCEC6vXz57Xceeo",
+      "name": "unsubscribe_url",
+      "type": "string",
+      "index": 4
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "createdAt": "2025-12-09T04:49:43.632Z",
+  "updatedAt": "2025-12-09T04:49:43.632Z"
+}

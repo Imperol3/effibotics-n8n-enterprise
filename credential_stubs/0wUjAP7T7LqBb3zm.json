@@ -1,0 +1,16 @@
+{
+  "id": "0wUjAP7T7LqBb3zm",
+  "name": "Evolution account 4",
+  "type": "evolutionApi",
+  "data": {
+    "server-url": "",
+    "apikey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1VFNOfj09gPA0RfQ",
+  "name": "Groq account",
+  "type": "groqApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "iQL1LUZmKXeVmchr",
+  "name": "Zoho account",
+  "type": "zohoOAuth2Api",
+  "data": {
+    "accessTokenUrl": "",
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

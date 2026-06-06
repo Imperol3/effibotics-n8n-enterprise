@@ -1,0 +1,17 @@
+{
+  "id": "FajoRNYE5dD64uCL",
+  "name": "Zammad Basic Auth account",
+  "type": "zammadBasicAuthApi",
+  "data": {
+    "baseUrl": "",
+    "username": "",
+    "password": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

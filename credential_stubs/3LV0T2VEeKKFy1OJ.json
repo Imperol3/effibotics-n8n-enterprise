@@ -1,0 +1,15 @@
+{
+  "id": "3LV0T2VEeKKFy1OJ",
+  "name": "Airtable Personal Access Token account 2",
+  "type": "airtableTokenApi",
+  "data": {
+    "accessToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

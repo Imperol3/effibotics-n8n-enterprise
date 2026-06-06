@@ -1,0 +1,17 @@
+{
+  "id": "jSe1CeoDLUa1OY9T",
+  "name": "n8n - Zack",
+  "type": "langfuseApi",
+  "data": {
+    "host": "",
+    "publicKey": "",
+    "secretKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

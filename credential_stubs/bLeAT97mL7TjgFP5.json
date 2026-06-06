@@ -1,0 +1,17 @@
+{
+  "id": "bLeAT97mL7TjgFP5",
+  "name": "Gmail account 4",
+  "type": "gmailOAuth2",
+  "data": {
+    "clientId": "",
+    "clientSecret": "",
+    "csrfSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

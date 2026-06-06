@@ -1,0 +1,16 @@
+{
+  "id": "bAAuHu8lVdEe32hu",
+  "name": "Google Sheets account 2",
+  "type": "googleSheetsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

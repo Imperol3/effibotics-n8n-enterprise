@@ -1,0 +1,15 @@
+{
+  "id": "oJHddBZqtjOvk2H9",
+  "name": "HubSpot App Token account",
+  "type": "hubspotAppToken",
+  "data": {
+    "appToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

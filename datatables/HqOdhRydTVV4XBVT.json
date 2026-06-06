@@ -1,0 +1,38 @@
+{
+  "id": "HqOdhRydTVV4XBVT",
+  "name": "Timer managers",
+  "columns": [
+    {
+      "id": "92Tdsd6xbFRZVau4",
+      "name": "timer_id",
+      "type": "string",
+      "index": 0
+    },
+    {
+      "id": "g0r45JmGNm74hUhB",
+      "name": "snoozed",
+      "type": "boolean",
+      "index": 1
+    },
+    {
+      "id": "TMg8CJonD018UvfG",
+      "name": "start_time",
+      "type": "string",
+      "index": 2
+    },
+    {
+      "id": "95llN5MvNeb95Nom",
+      "name": "end_time",
+      "type": "string",
+      "index": 3
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "createdAt": "2026-02-23T03:07:43.652Z",
+  "updatedAt": "2026-06-05T05:22:27.943Z"
+}

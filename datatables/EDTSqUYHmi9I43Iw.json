@@ -1,0 +1,26 @@
+{
+  "id": "EDTSqUYHmi9I43Iw",
+  "name": "Whop Apps",
+  "columns": [
+    {
+      "id": "8hrDZYeQvXlAl9ps",
+      "name": "scraped_data",
+      "type": "string",
+      "index": 0
+    },
+    {
+      "id": "XbVGZNCDwj2QxtqG",
+      "name": "pagination",
+      "type": "string",
+      "index": 1
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "createdAt": "2025-11-06T17:11:05.724Z",
+  "updatedAt": "2025-11-06T17:11:05.724Z"
+}

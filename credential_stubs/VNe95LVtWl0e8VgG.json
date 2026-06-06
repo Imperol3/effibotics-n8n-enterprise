@@ -1,0 +1,17 @@
+{
+  "id": "VNe95LVtWl0e8VgG",
+  "name": "IMAP account 3",
+  "type": "imap",
+  "data": {
+    "user": "",
+    "password": "",
+    "host": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

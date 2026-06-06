@@ -1,0 +1,17 @@
+{
+  "id": "HtUPQsCOTH4i5sTf",
+  "name": "Google Ads account",
+  "type": "googleAdsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": "",
+    "developerToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

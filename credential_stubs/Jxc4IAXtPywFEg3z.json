@@ -1,0 +1,17 @@
+{
+  "id": "Jxc4IAXtPywFEg3z",
+  "name": "Langfuse account",
+  "type": "langfuseApi",
+  "data": {
+    "host": "",
+    "publicKey": "",
+    "secretKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

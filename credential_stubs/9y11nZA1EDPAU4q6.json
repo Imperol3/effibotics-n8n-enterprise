@@ -1,0 +1,16 @@
+{
+  "id": "9y11nZA1EDPAU4q6",
+  "name": "Roy Lead Intake",
+  "type": "googleSheetsTriggerOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "YMLhGQqj2NVDIqxT",
+    "projectName": "Roy Kibe <roygithara6@gmail.com>",
+    "personalEmail": "roygithara6@gmail.com"
+  },
+  "isGlobal": false
+}

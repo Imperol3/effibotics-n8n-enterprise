@@ -1,0 +1,15 @@
+{
+  "id": "1iafUFPXWmOZoSp5",
+  "name": "contentfactory",
+  "type": "pineconeApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

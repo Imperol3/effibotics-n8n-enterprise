@@ -1,0 +1,15 @@
+{
+  "id": "t5Xq0J5SJpxlNOVA",
+  "name": "ClickUp API",
+  "type": "clickUpApi",
+  "data": {
+    "accessToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

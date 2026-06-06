@@ -1,0 +1,660 @@
+{
+  "folders": [
+    {
+      "id": "kAVDn7tromU3kEc3",
+      "name": "MARKETING",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-03-31T17:43:22.239Z",
+      "updatedAt": "2025-03-31T17:43:22.239Z"
+    },
+    {
+      "id": "SqXj1JqO5ZjlCpgc",
+      "name": "SEO DOCTOR",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-03-31T17:46:11.165Z",
+      "updatedAt": "2025-03-31T17:46:11.165Z"
+    },
+    {
+      "id": "w4EjnonhV3Uq7kW3",
+      "name": "Email_agents",
+      "parentFolderId": "rSAuNd8ljROFomQz",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-06T07:03:20.425Z",
+      "updatedAt": "2025-10-14T03:26:47.303Z"
+    },
+    {
+      "id": "ljETznB9Qq04pivN",
+      "name": "FINANCE",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T19:52:49.042Z",
+      "updatedAt": "2025-03-31T20:12:21.856Z"
+    },
+    {
+      "id": "QBaN2uBGmEIFqPWT",
+      "name": "N8n Showcase",
+      "parentFolderId": "CxvNTiMr8QAOTnhw",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T19:51:11.754Z",
+      "updatedAt": "2025-03-31T20:14:25.392Z"
+    },
+    {
+      "id": "WJ7vaWqVb46tNOOE",
+      "name": "N8n Manager",
+      "parentFolderId": "CxvNTiMr8QAOTnhw",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:15:52.333Z",
+      "updatedAt": "2025-03-31T20:15:52.333Z"
+    },
+    {
+      "id": "swOjcRqwNOnbhe0S",
+      "name": "Email Managers",
+      "parentFolderId": "3mKlDSzqgpbDQSBK",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:16:54.456Z",
+      "updatedAt": "2025-03-31T20:16:54.456Z"
+    },
+    {
+      "id": "vzJ1lqt9hkTKKKGY",
+      "name": "Calendar Managers",
+      "parentFolderId": "3mKlDSzqgpbDQSBK",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:17:10.436Z",
+      "updatedAt": "2025-03-31T20:17:10.436Z"
+    },
+    {
+      "id": "5uinYVRq6yiS8Qw2",
+      "name": "Tests & Demos",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:17:45.735Z",
+      "updatedAt": "2025-03-31T20:17:45.735Z"
+    },
+    {
+      "id": "4z0aiJojuzxGUhPw",
+      "name": "Meeting Manager Agents",
+      "parentFolderId": "3mKlDSzqgpbDQSBK",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:17:03.402Z",
+      "updatedAt": "2025-04-04T05:04:54.903Z"
+    },
+    {
+      "id": "SFNH7rM2JFPbbo1P",
+      "name": "Public",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-05T08:20:55.402Z",
+      "updatedAt": "2025-04-05T08:20:55.402Z"
+    },
+    {
+      "id": "rSAuNd8ljROFomQz",
+      "name": "AI",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-05T08:20:55.403Z",
+      "updatedAt": "2025-04-05T08:20:55.403Z"
+    },
+    {
+      "id": "1ifSzrJCAPORsuZJ",
+      "name": "Saas",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-06T19:52:59.862Z",
+      "updatedAt": "2025-04-06T19:52:59.862Z"
+    },
+    {
+      "id": "CLVQ0kkjPMhc4hHW",
+      "name": "SEO DOCTOR IN DEPLOYMENT",
+      "parentFolderId": "1ifSzrJCAPORsuZJ",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-06T19:55:48.448Z",
+      "updatedAt": "2025-04-06T19:55:48.448Z"
+    },
+    {
+      "id": "OWHGC435pU3pqoPt",
+      "name": "Google Analytics Tool",
+      "parentFolderId": "1ifSzrJCAPORsuZJ",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-11T19:37:58.821Z",
+      "updatedAt": "2025-04-11T19:37:58.821Z"
+    },
+    {
+      "id": "zGGvaA54Tik863de",
+      "name": "Backups",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-04-14T04:52:14.822Z",
+      "updatedAt": "2025-04-14T04:52:14.822Z"
+    },
+    {
+      "id": "jkA4PiEE3sy31FYD",
+      "name": "N8N DASHBOARD - N8N MANAGER",
+      "parentFolderId": "H7VqJNQMlWwRl2TP",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-15T10:30:33.224Z",
+      "updatedAt": "2025-04-15T10:30:33.224Z"
+    },
+    {
+      "id": "utXCUFGrMCt00Rt5",
+      "name": "Systems to deploy or deployed",
+      "parentFolderId": "1ifSzrJCAPORsuZJ",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-21T08:46:54.972Z",
+      "updatedAt": "2025-04-21T08:46:54.972Z"
+    },
+    {
+      "id": "AfJod7wfgAnwZ966",
+      "name": "Project Managers",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:17:20.741Z",
+      "updatedAt": "2025-05-10T06:18:15.554Z"
+    },
+    {
+      "id": "FEO5A5KE5ourSMN2",
+      "name": "PUBLIC TEMPLATES",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-11T04:07:01.385Z",
+      "updatedAt": "2025-05-11T04:07:01.385Z"
+    },
+    {
+      "id": "KJ0hEZ1kBcxTIAoT",
+      "name": "Max",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-16T08:48:41.449Z",
+      "updatedAt": "2025-05-16T08:48:41.449Z"
+    },
+    {
+      "id": "T1wa35GmFaTds8CV",
+      "name": "Mukund",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-16T08:49:05.511Z",
+      "updatedAt": "2025-05-16T08:49:05.511Z"
+    },
+    {
+      "id": "9cebOixpbZ4jyGyw",
+      "name": "Bright Data",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-16T08:49:27.975Z",
+      "updatedAt": "2025-05-16T08:49:27.975Z"
+    },
+    {
+      "id": "N18JehyRRD0QFA2C",
+      "name": "Graham",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-16T09:52:55.015Z",
+      "updatedAt": "2025-05-16T09:52:55.015Z"
+    },
+    {
+      "id": "mduAmYuNWLEKpt8T",
+      "name": "Timor",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-23T06:03:35.191Z",
+      "updatedAt": "2025-05-23T06:03:35.191Z"
+    },
+    {
+      "id": "DChT3dNWZ1sdfkNi",
+      "name": "Mohan Muthoo",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-27T05:24:51.140Z",
+      "updatedAt": "2025-05-27T05:24:51.140Z"
+    },
+    {
+      "id": "LYngyNa5gSOqTiVp",
+      "name": "Other Clients",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-27T15:37:53.093Z",
+      "updatedAt": "2025-05-27T15:37:53.093Z"
+    },
+    {
+      "id": "6fNtA91NjjlCooV5",
+      "name": "Internal Agents",
+      "parentFolderId": "3mKlDSzqgpbDQSBK",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-30T18:47:41.882Z",
+      "updatedAt": "2025-05-30T18:47:41.882Z"
+    },
+    {
+      "id": "gZXMkCkZla4jn0gx",
+      "name": "Ramy",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-06-04T05:51:50.700Z",
+      "updatedAt": "2025-06-04T05:51:50.700Z"
+    },
+    {
+      "id": "1kKKFqehnr5RR0lz",
+      "name": "Brett Lane",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-06-06T07:22:02.136Z",
+      "updatedAt": "2025-06-06T07:22:02.136Z"
+    },
+    {
+      "id": "bjiGYdMWcV5gmr63",
+      "name": "SEO DOCTOR",
+      "parentFolderId": null,
+      "homeProjectId": "iLMPmLUJKLkoTk0r",
+      "createdAt": "2025-06-25T19:24:21.139Z",
+      "updatedAt": "2025-06-25T19:24:21.139Z"
+    },
+    {
+      "id": "YGvAC3NrCuAolPUB",
+      "name": "Bonus Workflows",
+      "parentFolderId": null,
+      "homeProjectId": "iLMPmLUJKLkoTk0r",
+      "createdAt": "2025-07-02T04:38:27.436Z",
+      "updatedAt": "2025-07-02T04:38:27.436Z"
+    },
+    {
+      "id": "BATSGvF9tfG34qqg",
+      "name": "Riha",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-07-08T06:57:27.177Z",
+      "updatedAt": "2025-07-08T06:57:27.177Z"
+    },
+    {
+      "id": "Rpj6Nyop4m24y4vU",
+      "name": "Aman Raman",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-08-27T17:33:20.279Z",
+      "updatedAt": "2025-08-27T17:33:20.279Z"
+    },
+    {
+      "id": "psAN3BGpWHOopdNA",
+      "name": "SEO DOCTOR MANAGEMENT",
+      "parentFolderId": null,
+      "homeProjectId": "iLMPmLUJKLkoTk0r",
+      "createdAt": "2025-10-11T04:35:48.928Z",
+      "updatedAt": "2025-10-11T04:35:48.928Z"
+    },
+    {
+      "id": "uFnpQAJvTHseTIKW",
+      "name": "Website management",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-10-13T05:21:42.723Z",
+      "updatedAt": "2025-10-13T05:21:42.723Z"
+    },
+    {
+      "id": "AbvMZAsUnijVtJC0",
+      "name": "n8n management",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-10-13T05:22:08.708Z",
+      "updatedAt": "2025-10-13T05:22:08.708Z"
+    },
+    {
+      "id": "n970WfRwx5IKnkbZ",
+      "name": "Sales & Lead Management",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-10-13T05:22:47.955Z",
+      "updatedAt": "2025-10-13T05:22:47.955Z"
+    },
+    {
+      "id": "G7EsL7GybdlORNzQ",
+      "name": "Client Projects",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-10-13T05:23:20.550Z",
+      "updatedAt": "2025-10-13T05:23:20.550Z"
+    },
+    {
+      "id": "Re1Z3qF1kkyvyiGS",
+      "name": "Prototypes",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-10-13T05:24:01.534Z",
+      "updatedAt": "2025-10-13T05:24:01.534Z"
+    },
+    {
+      "id": "jYHH4O687nlVqLsq",
+      "name": "Productivity",
+      "parentFolderId": null,
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-13T07:34:45.188Z",
+      "updatedAt": "2025-10-13T07:34:45.188Z"
+    },
+    {
+      "id": "MTiF2I7XUnNPGzs4",
+      "name": "Sync",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-05T21:43:41.878Z",
+      "updatedAt": "2025-10-14T03:26:18.456Z"
+    },
+    {
+      "id": "dcS1rgOlmCcz5eMA",
+      "name": "Invoicing",
+      "parentFolderId": "ljETznB9Qq04pivN",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-08-09T13:05:01.175Z",
+      "updatedAt": "2025-10-14T03:26:34.172Z"
+    },
+    {
+      "id": "YbUnPJ0G6uYXU4cw",
+      "name": "SEO DOCTOR",
+      "parentFolderId": "1ifSzrJCAPORsuZJ",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:04:46.551Z",
+      "updatedAt": "2025-10-14T03:26:39.211Z"
+    },
+    {
+      "id": "4g9ZG39yHljlgAoJ",
+      "name": "Whatsapp Bots",
+      "parentFolderId": "rSAuNd8ljROFomQz",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-12T05:18:44.852Z",
+      "updatedAt": "2025-10-14T03:26:50.040Z"
+    },
+    {
+      "id": "rdOYoHvTokGYXFdy",
+      "name": "Youtube",
+      "parentFolderId": "q3eGzLuABVogwrmM",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-05-06T07:04:16.828Z",
+      "updatedAt": "2025-10-14T03:26:59.530Z"
+    },
+    {
+      "id": "LiLQ9y4CnhskmX3P",
+      "name": "Reddit-freebie",
+      "parentFolderId": "FEO5A5KE5ourSMN2",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-06-11T05:33:34.581Z",
+      "updatedAt": "2025-10-14T03:27:04.576Z"
+    },
+    {
+      "id": "I6qVUJU2nGlh8LyC",
+      "name": "Nairobi n8n Network",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-09-15T11:21:46.060Z",
+      "updatedAt": "2025-10-14T03:27:17.615Z"
+    },
+    {
+      "id": "ZIGgTog454VLO9b6",
+      "name": "Website Management",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-05T12:09:54.042Z",
+      "updatedAt": "2025-10-14T03:27:20.935Z"
+    },
+    {
+      "id": "9xe1Q3r61dqORkLm",
+      "name": "N8n Manager demo",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-05T08:55:38.628Z",
+      "updatedAt": "2025-10-14T03:27:28.734Z"
+    },
+    {
+      "id": "H7VqJNQMlWwRl2TP",
+      "name": "N8N manager",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-05T08:20:55.400Z",
+      "updatedAt": "2025-10-14T03:27:32.517Z"
+    },
+    {
+      "id": "FMo3OG0MTlbPkXRD",
+      "name": "Pro Projects",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-04T05:11:46.859Z",
+      "updatedAt": "2025-10-14T03:27:36.606Z"
+    },
+    {
+      "id": "GvHzdosZMZPqSm5k",
+      "name": "Client Projects",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-04T05:03:04.039Z",
+      "updatedAt": "2025-10-14T03:27:45.882Z"
+    },
+    {
+      "id": "18RWetn8TBYUWN1r",
+      "name": "Lead Generation",
+      "parentFolderId": "Hatw17NPgK2LFs9N",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:14:06.099Z",
+      "updatedAt": "2025-10-14T03:28:05.344Z"
+    },
+    {
+      "id": "fx7r4VCXlDBEENjA",
+      "name": "CLICKUP",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:30:35.222Z",
+      "updatedAt": "2025-11-02T03:28:24.613Z"
+    },
+    {
+      "id": "3mKlDSzqgpbDQSBK",
+      "name": "AI AGENTS",
+      "parentFolderId": "rSAuNd8ljROFomQz",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:16:21.571Z",
+      "updatedAt": "2025-10-14T03:28:22.682Z"
+    },
+    {
+      "id": "bremwa27DpyqoAeN",
+      "name": "Meeting Managers",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T20:13:56.611Z",
+      "updatedAt": "2025-10-14T03:28:31.662Z"
+    },
+    {
+      "id": "32Hj8ywNgBZEtAbN",
+      "name": "Prototypes",
+      "parentFolderId": "1ifSzrJCAPORsuZJ",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-13T18:34:28.442Z",
+      "updatedAt": "2025-10-14T03:28:35.527Z"
+    },
+    {
+      "id": "9n1lIbQLXGsMf9Qy",
+      "name": "Scraping",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:26:02.870Z",
+      "updatedAt": "2025-10-14T03:28:39.100Z"
+    },
+    {
+      "id": "q3eGzLuABVogwrmM",
+      "name": "Social Media Automations",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-04-23T04:08:46.711Z",
+      "updatedAt": "2025-10-14T03:28:46.525Z"
+    },
+    {
+      "id": "dJPyAQ1qwPheyxUa",
+      "name": "Smartlead",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:47:35.954Z",
+      "updatedAt": "2025-10-14T03:47:35.954Z"
+    },
+    {
+      "id": "0HR53ZWxbNbsq4Cn",
+      "name": "Airtable Projects",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:48:18.650Z",
+      "updatedAt": "2025-10-14T03:48:18.650Z"
+    },
+    {
+      "id": "d7ZI7pmzBBS6LIkC",
+      "name": "GUMROAD",
+      "parentFolderId": "ljETznB9Qq04pivN",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:51:13.944Z",
+      "updatedAt": "2025-10-14T03:51:13.944Z"
+    },
+    {
+      "id": "2zhIeGN6gy6LvICH",
+      "name": "Email Managers",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:53:02.823Z",
+      "updatedAt": "2025-10-14T03:53:02.823Z"
+    },
+    {
+      "id": "CxvNTiMr8QAOTnhw",
+      "name": "N8n Management",
+      "parentFolderId": "H7VqJNQMlWwRl2TP",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T19:49:53.750Z",
+      "updatedAt": "2025-10-14T03:53:09.471Z"
+    },
+    {
+      "id": "G8tUehD83FGM2Wce",
+      "name": "ONBOARDING",
+      "parentFolderId": "jYHH4O687nlVqLsq",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:30:17.965Z",
+      "updatedAt": "2025-11-02T03:29:42.210Z"
+    },
+    {
+      "id": "td8bND4uFSmwKY4j",
+      "name": "PROPOSALS $$$ QUOTATIONS",
+      "parentFolderId": "ljETznB9Qq04pivN",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-10-14T03:51:46.594Z",
+      "updatedAt": "2025-11-02T03:34:35.305Z"
+    },
+    {
+      "id": "R2sUNsGlnkb1jAfp",
+      "name": "Social Media",
+      "parentFolderId": "Hatw17NPgK2LFs9N",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-11-04T06:27:59.058Z",
+      "updatedAt": "2025-11-04T06:27:59.058Z"
+    },
+    {
+      "id": "O5dUDtmtVpToU38v",
+      "name": "SEO DOCTOR",
+      "parentFolderId": "Re1Z3qF1kkyvyiGS",
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-11-05T03:16:45.035Z",
+      "updatedAt": "2025-11-05T03:16:45.035Z"
+    },
+    {
+      "id": "kEGH4ajaXEVC0ZG0",
+      "name": "Whop Apps",
+      "parentFolderId": "Hatw17NPgK2LFs9N",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-11-06T19:00:52.798Z",
+      "updatedAt": "2025-11-06T19:00:52.798Z"
+    },
+    {
+      "id": "XEV84Hr7voWJIBG2",
+      "name": "Moringa School",
+      "parentFolderId": "GvHzdosZMZPqSm5k",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-11-10T14:19:39.610Z",
+      "updatedAt": "2025-11-10T14:19:39.610Z"
+    },
+    {
+      "id": "ZeqnXjyAEGO4PuoC",
+      "name": "Gemini Tests",
+      "parentFolderId": "5uinYVRq6yiS8Qw2",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-11-13T08:25:25.101Z",
+      "updatedAt": "2025-11-13T08:25:25.101Z"
+    },
+    {
+      "id": "IqFPrW34q6z0jJHH",
+      "name": "Internal Billing",
+      "parentFolderId": "ljETznB9Qq04pivN",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-12-09T04:53:11.903Z",
+      "updatedAt": "2025-12-09T04:53:11.903Z"
+    },
+    {
+      "id": "l0LOfMdOy4yYiLjg",
+      "name": "GA4 ASSISTANT",
+      "parentFolderId": "SqXj1JqO5ZjlCpgc",
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-12-11T17:58:36.053Z",
+      "updatedAt": "2025-12-11T17:58:36.053Z"
+    },
+    {
+      "id": "vaKzvVzyGf1S6Bbz",
+      "name": "Tests & Demos",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2025-12-18T12:29:41.067Z",
+      "updatedAt": "2025-12-18T12:29:45.957Z"
+    },
+    {
+      "id": "Hatw17NPgK2LFs9N",
+      "name": "Sales & Marketing",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2025-03-31T17:30:54.096Z",
+      "updatedAt": "2026-01-10T15:19:24.527Z"
+    },
+    {
+      "id": "Nm5ddLrffV6leMCk",
+      "name": "Personal Assistant System",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2026-01-26T19:16:27.818Z",
+      "updatedAt": "2026-01-26T19:16:27.818Z"
+    },
+    {
+      "id": "5JJYmp2REii5Dh5M",
+      "name": "Calendar Sync",
+      "parentFolderId": "bremwa27DpyqoAeN",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2026-02-06T03:30:12.032Z",
+      "updatedAt": "2026-02-06T03:30:12.032Z"
+    },
+    {
+      "id": "hdamWtsNvqEVHyTP",
+      "name": "Demoes and Tutorials",
+      "parentFolderId": "FEO5A5KE5ourSMN2",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2026-02-18T13:53:52.139Z",
+      "updatedAt": "2026-02-18T13:53:52.139Z"
+    },
+    {
+      "id": "RvUvR7YO9EpJdNgj",
+      "name": "Hackathons",
+      "parentFolderId": null,
+      "homeProjectId": "RTZ3yf3fpufa50M1",
+      "createdAt": "2026-03-07T09:01:18.327Z",
+      "updatedAt": "2026-03-07T09:01:18.327Z"
+    },
+    {
+      "id": "oqUnOLLQbMgfYlvy",
+      "name": "SEO DOCTOR",
+      "parentFolderId": "AfJod7wfgAnwZ966",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2026-04-18T07:50:32.348Z",
+      "updatedAt": "2026-04-18T07:50:32.348Z"
+    },
+    {
+      "id": "xry96x95FNAUhUnD",
+      "name": "Teable",
+      "parentFolderId": "5uinYVRq6yiS8Qw2",
+      "homeProjectId": "o1wKyZalN6cSf3Wy",
+      "createdAt": "2026-05-10T15:18:48.824Z",
+      "updatedAt": "2026-05-10T15:18:48.824Z"
+    }
+  ]
+}

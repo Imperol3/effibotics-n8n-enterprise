@@ -1,0 +1,15 @@
+{
+  "id": "MtjdpSWeg19zOJHZ",
+  "name": "OpenWeatherMap account",
+  "type": "openWeatherMapApi",
+  "data": {
+    "accessToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

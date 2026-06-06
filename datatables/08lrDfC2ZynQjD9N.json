@@ -1,0 +1,56 @@
+{
+  "id": "08lrDfC2ZynQjD9N",
+  "name": "clickup_timers",
+  "columns": [
+    {
+      "id": "dzIPJYFVA3s5RUR9",
+      "name": "task_id",
+      "type": "string",
+      "index": 0
+    },
+    {
+      "id": "Qcbr5OurqV4YXp1M",
+      "name": "interval",
+      "type": "string",
+      "index": 1
+    },
+    {
+      "id": "dMUux5i6tqKSpw5O",
+      "name": "start_date",
+      "type": "string",
+      "index": 2
+    },
+    {
+      "id": "JyFIxdOqTQ09JF3t",
+      "name": "start_time",
+      "type": "string",
+      "index": 3
+    },
+    {
+      "id": "94qvnNNlDgbiY7sM",
+      "name": "end_time",
+      "type": "string",
+      "index": 4
+    },
+    {
+      "id": "rjqrrxhFTiFbO0aI",
+      "name": "time_minutes",
+      "type": "string",
+      "index": 5
+    },
+    {
+      "id": "2ORfkuzXnHIoekon",
+      "name": "time_entry_id",
+      "type": "string",
+      "index": 6
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "createdAt": "2026-03-30T16:31:52.440Z",
+  "updatedAt": "2026-05-15T20:45:25.240Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lz7GxlAFtPlcVJXV",
+  "name": "Airtable Personal Access Token account 4",
+  "type": "airtableTokenApi",
+  "data": {
+    "accessToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

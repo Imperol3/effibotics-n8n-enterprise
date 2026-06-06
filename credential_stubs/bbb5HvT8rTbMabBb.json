@@ -1,0 +1,16 @@
+{
+  "id": "bbb5HvT8rTbMabBb",
+  "name": "Browserless Credentials account",
+  "type": "browserlessApi",
+  "data": {
+    "url": "",
+    "token": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nWrIe5kiDeU0cTxr",
+  "name": "ScrapeNinja account",
+  "type": "scrapeNinjaApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

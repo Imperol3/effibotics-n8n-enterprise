@@ -1,0 +1,15 @@
+{
+  "id": "c9c6w5xHYg32HnXK",
+  "name": "Boris - Open router",
+  "type": "openRouterApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "y617XHJ1qdrF3MsW",
+    "projectName": "Boris Lanev <kimothozacharia5+boris@gmail.com>",
+    "personalEmail": "kimothozacharia5+boris@gmail.com"
+  },
+  "isGlobal": false
+}

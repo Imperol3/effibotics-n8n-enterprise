@@ -1,0 +1,17 @@
+{
+  "id": "7hG7piiVI12n9hB2",
+  "name": "John - John@effibotics.com",
+  "type": "postgres",
+  "data": {
+    "host": "",
+    "user": "",
+    "password": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

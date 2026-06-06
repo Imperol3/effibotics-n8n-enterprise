@@ -1,0 +1,16 @@
+{
+  "id": "0o7Vi5IL5r6jf1mH",
+  "name": "Google Sheets account 3",
+  "type": "googleSheetsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5DvO2BoX7PKOQfNd",
+  "name": "Google BigQuery service account",
+  "type": "googleApi",
+  "data": {
+    "email": "",
+    "privateKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

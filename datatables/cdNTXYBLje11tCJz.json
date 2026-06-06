@@ -1,0 +1,50 @@
+{
+  "id": "cdNTXYBLje11tCJz",
+  "name": "Calendar events",
+  "columns": [
+    {
+      "id": "Nq35yTKV70IIPFHQ",
+      "name": "caluid",
+      "type": "string",
+      "index": 0
+    },
+    {
+      "id": "4o9kIqxslODzjjir",
+      "name": "account",
+      "type": "string",
+      "index": 1
+    },
+    {
+      "id": "XZ46nWqV7ILIQGVk",
+      "name": "meeting",
+      "type": "string",
+      "index": 2
+    },
+    {
+      "id": "71uP0LhQTNMJ4E0e",
+      "name": "copy_calid",
+      "type": "string",
+      "index": 3
+    },
+    {
+      "id": "V4CCaHeKAEhghtd1",
+      "name": "meeting_id",
+      "type": "string",
+      "index": 4
+    },
+    {
+      "id": "29kRnzf0tQYGSVxl",
+      "name": "original_meeting_id",
+      "type": "string",
+      "index": 5
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "createdAt": "2026-02-03T17:31:59.124Z",
+  "updatedAt": "2026-06-05T10:03:22.446Z"
+}

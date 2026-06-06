@@ -1,0 +1,16 @@
+{
+  "id": "0g0TmMHpZMItmlZj",
+  "name": "Google Docs account",
+  "type": "googleDocsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

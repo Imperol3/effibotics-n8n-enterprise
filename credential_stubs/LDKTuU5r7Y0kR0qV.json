@@ -1,0 +1,16 @@
+{
+  "id": "LDKTuU5r7Y0kR0qV",
+  "name": "Google Drive account 3",
+  "type": "googleDriveOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

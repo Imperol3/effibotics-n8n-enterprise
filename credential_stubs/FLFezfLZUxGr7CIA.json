@@ -1,0 +1,15 @@
+{
+  "id": "FLFezfLZUxGr7CIA",
+  "name": "Mistral Cloud account 4",
+  "type": "mistralCloudApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

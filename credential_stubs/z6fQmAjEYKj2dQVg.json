@@ -1,0 +1,18 @@
+{
+  "id": "z6fQmAjEYKj2dQVg",
+  "name": "John@effibotics.com",
+  "type": "postgres",
+  "data": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "port": 6543
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

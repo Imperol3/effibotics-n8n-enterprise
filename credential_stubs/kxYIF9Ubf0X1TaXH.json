@@ -1,0 +1,15 @@
+{
+  "id": "kxYIF9Ubf0X1TaXH",
+  "name": "Apify account 2",
+  "type": "apifyApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}

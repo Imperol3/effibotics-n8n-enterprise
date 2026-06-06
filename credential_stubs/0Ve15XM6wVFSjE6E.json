@@ -1,0 +1,20 @@
+{
+  "id": "0Ve15XM6wVFSjE6E",
+  "name": "Google Service Account account",
+  "type": "googleApi",
+  "data": {
+    "email": "",
+    "privateKey": "",
+    "inpersonate": true,
+    "delegatedEmail": "",
+    "httpNode": true,
+    "scopes": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

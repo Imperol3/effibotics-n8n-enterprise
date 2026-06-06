@@ -1,0 +1,16 @@
+{
+  "id": "WVyUF2tYEQp8Hq7a",
+  "name": "Work",
+  "icon": {
+    "type": "icon",
+    "value": "layers"
+  },
+  "description": "",
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "WVyUF2tYEQp8Hq7a",
+    "teamName": "Work"
+  },
+  "variableStubs": []
+}

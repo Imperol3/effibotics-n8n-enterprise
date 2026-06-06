@@ -1,0 +1,16 @@
+{
+  "id": "g24aF2TiGljBKif2",
+  "name": "Google Sheets account 11",
+  "type": "googleSheetsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "YMLhGQqj2NVDIqxT",
+    "projectName": "Roy Kibe <roygithara6@gmail.com>",
+    "personalEmail": "roygithara6@gmail.com"
+  },
+  "isGlobal": false
+}

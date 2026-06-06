@@ -1,0 +1,71 @@
+{
+  "id": "hB7Q-DXZQF7JwfdTdESru",
+  "name": "Error Workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.errorTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "bd6eb82b-69d3-40b3-8fb0-e312f5aac0d9",
+      "name": "Error Trigger"
+    },
+    {
+      "parameters": {
+        "sendTo": "Irobertndungu@gmail.com",
+        "subject": "=Error in workflow: {{ $json.workflow.name }}",
+        "emailType": "text",
+        "message": "=The above workflow failed to execute with the following details\nWorkflow: {{ $json.workflow.name }}\nExecution url: {{ $json.execution.url }}\nError message: {{ $json.execution.error.message }}\nLast Node Executed: {{ $json.execution.lastNodeExecuted }}",
+        "options": {
+          "appendAttribution": false
+        }
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.2,
+      "position": [
+        208,
+        0
+      ],
+      "id": "317a93a0-c365-4522-b806-256bf1ae5769",
+      "name": "Send a message",
+      "webhookId": "4cb9247f-9342-4484-a9d0-0abdeb546d0b",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "mH14TakIj49tLZo6",
+          "name": "Gmail account 8"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Error Trigger": {
+      "main": [
+        [
+          {
+            "node": "Send a message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false,
+    "errorWorkflow": "wgIupwopCVUf5TLs"
+  },
+  "triggerCount": 0,
+  "versionId": "53953d44-3e79-4dd2-ad0f-2ee13c88cfb8",
+  "owner": {
+    "type": "personal",
+    "projectId": "LVswQGUF8vYaHI1H",
+    "projectName": "Robert Ndung'u <irobertndungu@gmail.com>",
+    "personalEmail": "irobertndungu@gmail.com"
+  },
+  "parentFolderId": null,
+  "isArchived": false
+}

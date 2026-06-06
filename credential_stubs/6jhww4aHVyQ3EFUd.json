@@ -1,0 +1,15 @@
+{
+  "id": "6jhww4aHVyQ3EFUd",
+  "name": "Airtop account",
+  "type": "airtopApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

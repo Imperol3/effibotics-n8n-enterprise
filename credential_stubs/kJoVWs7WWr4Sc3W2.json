@@ -1,0 +1,15 @@
+{
+  "id": "kJoVWs7WWr4Sc3W2",
+  "name": "DeepSeek account 3",
+  "type": "deepSeekApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

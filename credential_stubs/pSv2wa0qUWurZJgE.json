@@ -1,0 +1,16 @@
+{
+  "id": "pSv2wa0qUWurZJgE",
+  "name": "Supabase account",
+  "type": "supabaseApi",
+  "data": {
+    "host": "",
+    "serviceRole": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

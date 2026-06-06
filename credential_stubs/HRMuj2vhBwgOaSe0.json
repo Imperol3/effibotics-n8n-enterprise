@@ -1,0 +1,15 @@
+{
+  "id": "HRMuj2vhBwgOaSe0",
+  "name": "Boris - Gemini Acc",
+  "type": "googlePalmApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "y617XHJ1qdrF3MsW",
+    "projectName": "Boris Lanev <kimothozacharia5+boris@gmail.com>",
+    "personalEmail": "kimothozacharia5+boris@gmail.com"
+  },
+  "isGlobal": false
+}

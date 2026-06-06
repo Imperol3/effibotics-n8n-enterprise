@@ -1,0 +1,17 @@
+{
+  "id": "YZDa0e8xyH6snEan",
+  "name": "IMAP account 6",
+  "type": "imap",
+  "data": {
+    "user": "",
+    "password": "",
+    "host": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "NBmKz4JYArsUSvqr",
+    "projectName": "John Muthee <john254munene@gmail.com>",
+    "personalEmail": "john254munene@gmail.com"
+  },
+  "isGlobal": false
+}

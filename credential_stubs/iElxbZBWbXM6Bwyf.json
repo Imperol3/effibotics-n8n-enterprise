@@ -1,0 +1,19 @@
+{
+  "id": "iElxbZBWbXM6Bwyf",
+  "name": "Fun Automations Knowledge",
+  "type": "postgres",
+  "data": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "allowUnauthorizedCerts": true,
+    "port": 6543
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "o1wKyZalN6cSf3Wy",
+    "projectName": "Zacharia Kimotho <kimothozacharia5@gmail.com>",
+    "personalEmail": "kimothozacharia5@gmail.com"
+  },
+  "isGlobal": false
+}

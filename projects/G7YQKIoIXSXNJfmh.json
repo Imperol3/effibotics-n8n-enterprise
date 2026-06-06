@@ -1,0 +1,16 @@
+{
+  "id": "G7YQKIoIXSXNJfmh",
+  "name": "Task Manager ",
+  "icon": {
+    "type": "icon",
+    "value": "layers"
+  },
+  "description": "Contains all the task wfs, time tracking, clickup etc",
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "G7YQKIoIXSXNJfmh",
+    "teamName": "Task Manager "
+  },
+  "variableStubs": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cOyjhTTG7fcf5KLr",
+  "name": "Moringa automate",
+  "type": "n8nApi",
+  "data": {
+    "apiKey": "",
+    "baseUrl": ""
+  },
+  "ownedBy": {
+    "type": "team",
+    "teamId": "WVyUF2tYEQp8Hq7a",
+    "teamName": "Work"
+  },
+  "isGlobal": false
+}

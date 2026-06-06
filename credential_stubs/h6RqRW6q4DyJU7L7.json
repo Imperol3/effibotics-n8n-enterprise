@@ -1,0 +1,15 @@
+{
+  "id": "h6RqRW6q4DyJU7L7",
+  "name": "backup gmail",
+  "type": "gmailOAuth2",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "team",
+    "teamId": "WVyUF2tYEQp8Hq7a",
+    "teamName": "Work"
+  },
+  "isGlobal": false
+}

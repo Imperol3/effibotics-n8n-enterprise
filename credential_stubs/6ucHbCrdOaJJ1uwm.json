@@ -1,0 +1,16 @@
+{
+  "id": "6ucHbCrdOaJJ1uwm",
+  "name": "Google Sheets account 9",
+  "type": "googleSheetsOAuth2Api",
+  "data": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "D27Ur7rGoqi4y7ge",
+    "projectName": "Peggy Kimotho <peggykimotho@gmail.com>",
+    "personalEmail": "peggykimotho@gmail.com"
+  },
+  "isGlobal": false
+}

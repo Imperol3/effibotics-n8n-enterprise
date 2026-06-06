@@ -1,0 +1,15 @@
+{
+  "id": "kO8LWWCz1Z61QhGA",
+  "name": "Discord Webhook account",
+  "type": "discordWebhookApi",
+  "data": {
+    "webhookUri": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "maOj4Yiru59uphYt",
+    "projectName": "paulngururi@gmail.com paul <paulngururi@gmail.com>",
+    "personalEmail": "paulngururi@gmail.com"
+  },
+  "isGlobal": false
+}

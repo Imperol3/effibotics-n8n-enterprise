@@ -1,0 +1,15 @@
+{
+  "id": "tqGaYIeIomYogT16",
+  "name": "ElevenLabs account",
+  "type": "elevenLabsApi",
+  "data": {
+    "xiApiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "RTZ3yf3fpufa50M1",
+    "projectName": "Fun Automations <phoenixconsultants46@gmail.com>",
+    "personalEmail": "phoenixconsultants46@gmail.com"
+  },
+  "isGlobal": false
+}
