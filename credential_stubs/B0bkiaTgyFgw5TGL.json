@@ -3,14 +3,8 @@
   "name": "Gmail account✅",
   "type": "gmailOAuth2",
   "data": {
-    "grantType": "",
-    "authUrl": "",
-    "accessTokenUrl": "",
     "clientId": "",
-    "clientSecret": "",
-    "scope": "",
-    "authQueryParameters": "",
-    "authentication": ""
+    "clientSecret": ""
   },
   "ownedBy": {
     "type": "personal",

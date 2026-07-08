@@ -1,0 +1,16 @@
+{
+  "id": "TNToUCyRGWRGuPfW",
+  "name": "Demoes and Public setup",
+  "icon": {
+    "type": "icon",
+    "value": "layers"
+  },
+  "description": "",
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "TNToUCyRGWRGuPfW",
+    "teamName": "Demoes and Public setup"
+  },
+  "variableStubs": []
+}

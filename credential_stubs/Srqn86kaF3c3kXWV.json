@@ -1,0 +1,13 @@
+{
+  "id": "Srqn86kaF3c3kXWV",
+  "name": "Postgres account 2",
+  "type": "postgres",
+  "data": {},
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

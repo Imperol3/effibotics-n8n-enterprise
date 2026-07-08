@@ -1,0 +1,15 @@
+{
+  "id": "JAlZ64sD7JoJdZ0s",
+  "name": "Discord Webhook account 2",
+  "type": "discordWebhookApi",
+  "data": {
+    "webhookUri": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

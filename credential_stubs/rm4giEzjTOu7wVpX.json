@@ -1,0 +1,15 @@
+{
+  "id": "rm4giEzjTOu7wVpX",
+  "name": "n8nQuickstart s1 discord webhook account",
+  "type": "discordWebhookApi",
+  "data": {
+    "webhookUri": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "isGlobal": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "IzQ3nb2Ys7uuT2CW",
+  "name": "customers",
+  "columns": [
+    {
+      "id": "SAedSKQR2knA4ZQ1",
+      "name": "customerID",
+      "type": "number",
+      "index": 0
+    },
+    {
+      "id": "WC1tmWvG6XTBPQSA",
+      "name": "customerCountry",
+      "type": "string",
+      "index": 1
+    },
+    {
+      "id": "a5Su2TgqU40WoTyw",
+      "name": "customerEmail",
+      "type": "string",
+      "index": 2
+    },
+    {
+      "id": "eYyl7o3fyX5J8IJm",
+      "name": "customerSince",
+      "type": "date",
+      "index": 3
+    },
+    {
+      "id": "NrNCuQQD7lZQNGrk",
+      "name": "region",
+      "type": "string",
+      "index": 4
+    },
+    {
+      "id": "XsmQMm3kk1GB3pyj",
+      "name": "subregion",
+      "type": "string",
+      "index": 5
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "createdAt": "2026-07-07T14:12:52.575Z",
+  "updatedAt": "2026-07-07T14:28:09.640Z"
+}

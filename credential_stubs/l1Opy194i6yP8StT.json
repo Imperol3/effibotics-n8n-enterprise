@@ -1,0 +1,14 @@
+{
+  "id": "l1Opy194i6yP8StT",
+  "name": "Alibaba Cloud account",
+  "type": "alibabaCloudApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "team",
+    "teamId": "TNToUCyRGWRGuPfW",
+    "teamName": "Demoes and Public setup"
+  },
+  "isGlobal": false
+}

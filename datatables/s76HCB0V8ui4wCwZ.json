@@ -1,0 +1,44 @@
+{
+  "id": "s76HCB0V8ui4wCwZ",
+  "name": "orders.nathan",
+  "columns": [
+    {
+      "id": "6AeTJ1ra4nzw96FI",
+      "name": "orderID",
+      "type": "number",
+      "index": 0
+    },
+    {
+      "id": "Ftv3QeIUseqjqdUV",
+      "name": "customerID",
+      "type": "number",
+      "index": 1
+    },
+    {
+      "id": "gmKH7oYtAaqxuTDy",
+      "name": "employeeName",
+      "type": "string",
+      "index": 2
+    },
+    {
+      "id": "pgxcULf0UEKvS2al",
+      "name": "orderPrice",
+      "type": "number",
+      "index": 3
+    },
+    {
+      "id": "y68vzLQiQ7hQ6Uun",
+      "name": "orderStatus",
+      "type": "string",
+      "index": 4
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "createdAt": "2026-07-06T10:03:15.236Z",
+  "updatedAt": "2026-07-06T12:02:21.268Z"
+}

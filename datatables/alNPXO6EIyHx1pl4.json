@@ -1,0 +1,26 @@
+{
+  "id": "alNPXO6EIyHx1pl4",
+  "name": "ProcessingOrders",
+  "columns": [
+    {
+      "id": "qn03lCwjFiyfHLFx",
+      "name": "orderID",
+      "type": "number",
+      "index": 0
+    },
+    {
+      "id": "6RPuMhYrk2UnX2ar",
+      "name": "employeeName",
+      "type": "string",
+      "index": 1
+    }
+  ],
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "OII8pXr1eRkBVUXc",
+    "projectName": "BRIAN  KIRERU <briankireru41@gmail.com>",
+    "personalEmail": "briankireru41@gmail.com"
+  },
+  "createdAt": "2026-07-06T12:03:35.526Z",
+  "updatedAt": "2026-07-07T21:00:08.263Z"
+}
